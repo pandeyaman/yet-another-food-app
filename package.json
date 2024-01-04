@@ -1,0 +1,33 @@
+{
+  "name": "yet-another-food-app",
+  "version": "1.0.0",
+  "description": "Yet another food ordering app developed using React & Tailwind",
+  "main": "App.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyaman/yet-another-food-app.git"
+  },
+  "keywords": [
+    "React",
+    "Tailwind",
+    "Food",
+    "ordering"
+  ],
+  "author": "Aman Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeyaman/yet-another-food-app/issues"
+  },
+  "homepage": "https://github.com/pandeyaman/yet-another-food-app#readme",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
